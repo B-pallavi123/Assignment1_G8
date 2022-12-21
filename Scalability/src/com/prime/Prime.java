@@ -9,6 +9,7 @@ public class Prime {
 				count = count + 1;
 			}
 		}
+		
 		if (count == 0) {
 			System.out.println("Given number is a prime number");
 		} else {
