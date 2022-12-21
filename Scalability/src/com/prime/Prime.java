@@ -10,6 +10,7 @@ public class Prime {
 			}
 		}
 		
+		
 		if (count == 0) {
 			System.out.println("Given number is a prime number");
 		} else {
