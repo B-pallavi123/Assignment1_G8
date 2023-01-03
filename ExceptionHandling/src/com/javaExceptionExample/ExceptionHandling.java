@@ -27,7 +27,7 @@ public class ExceptionHandling {
 		}
 		System.out.println("product is " + mul);
 
-		// TODO Auto-generated method stub
+
 
 	}
 
