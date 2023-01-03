@@ -25,6 +25,7 @@ public class ExceptionHandling {
 			System.out.println("i am always executed");
 
 		}
+		
 		System.out.println("product is " + mul);
 
 
