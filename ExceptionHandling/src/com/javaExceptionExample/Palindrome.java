@@ -7,6 +7,7 @@ public class Palindrome {
 	static void palindrome(int a) throws Exception {
 		int n, reverse = 0, last_digit;
 		n = a;
+
 		while (a > 0) {
 			last_digit = a % 10;
 			reverse = reverse * 10 + last_digit;
